@@ -128,7 +128,7 @@ Acesse: `http://localhost:8000/chatify`
 
 ## 📚 Autor
 
-Desenvolvido por: **Gabriel Santos**
-Frameworks: Laravel, Breeze, Chatify
-Ano: 2025
+* Desenvolvido por: **Gabriel Santos**
+* Frameworks: Laravel, Breeze, Chatify
+* Ano: 2025
 Fique à vontade para contribuir com melhorias através de pull requests!
