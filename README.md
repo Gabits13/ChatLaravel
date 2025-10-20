@@ -118,9 +118,9 @@ npm run dev
 
 Acesse: `http://localhost:8000/chatify`
 
-### 📷 Interface do Chat (2 imagens):
+### 📷 Interface do Chat
 
-![Chat Tela 1](printschat/printchat1.png)
+![Chat Tela 1](printschat/printchat.png)
 ![Chat Tela 2](printschat/printchat2.png)
 ![Chat Tela 3](printschat/printchat3.png)
 
